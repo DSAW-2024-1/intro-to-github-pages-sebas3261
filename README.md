@@ -9,7 +9,8 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
   - Una vez agreguen el nuevo remoto, deben hacer push.
      - En lugar de hacer `git push origin master` deberán usar el nombre del nuevo remoto, es decir: `git push NOMBRE_DE_REFERENCIA_DEL_NUEVO_REMOTO master`
 
-
+![Imagen de FlexboxFrogy](./assets/images/flexfroggy.png)
+![Imagen de Grid garden](./assets/images/gridGarden.png)
 ## Sitio web Desplegado
 El taller estará finalizado una vez suban su página a internet y agregue a continuación el link:
 - **Link del sitio web desplegado: https://dsaw-2024-1.github.io/intro-to-github-pages-sebas3261/**
