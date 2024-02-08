@@ -12,8 +12,10 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
 A continuacion se encuentran los pantallasos de los juegos terminados para mejorar la habilidad con el uso de css
 Flexbox Frogy:
 ![Imagen de FlexboxFrogy](./assets/images/flexfroggy.png)
-Grid Garden
+Grid Garden:
 ![Imagen de Grid garden](./assets/images/gridGarden.png)
+CSS Diner:
+![Imagen css Diner](./assets/images/csssushi.png)
 y el preview de como se ve la pagina web desplegada
 ![Imagen de la pagina](./assets/images/pagina.png)
 ## Sitio web Desplegado
